@@ -4,7 +4,7 @@
 
 ![Cải tạo và nâng cấp hệ thống xử lý nước cấp](https://moitruonghopnhat.com/uploads/images/Dich-vu/cai-tao-nang-cap-he-thong-xu-ly-nuoc-cap.jpg)
 
-Cải tạo và nâng cấp hệ thống xử lý nước cấp.*
+Cải tạo và nâng cấp hệ thống xử lý nước cấp
 
 ## Mục lục
 
@@ -50,7 +50,7 @@ Các tiêu chuẩn thiết kế và vận hành hệ thống cấp nước (về
 
 ![Trường hợp cần cải tạo hệ thống xử lý nước cấp](https://moitruonghopnhat.com/uploads/images/Dich-vu/truong-hop-can-cai-tao-he-thong-xu-ly-nuoc-cap.jpg)
 
-*Hình: Trường hợp cần cải tạo hệ thống xử lý nước cấp.*
+Trường hợp cần cải tạo hệ thống xử lý nước cấp?
 
 ### 1.4. Tỷ lệ thất thoát nước và chi phí vận hành tăng cao
 
@@ -75,7 +75,7 @@ Nếu không nâng cấp kịp thời, hệ thống sẽ:
 
 ![Mở rộng quy mô nhà máy](https://moitruonghopnhat.com/uploads/images/Dich-vu/mo-rong-quy-mo-nha-may.jpg)
 
-*Hình: Mở rộng quy mô nhà máy làm tăng nhu cầu sử dụng nước cấp phục vụ sản xuất, sinh hoạt.*
+Mở rộng quy mô nhà máy làm tăng nhu cầu sử dụng nước cấp phục vụ sản xuất, sinh hoạt
 
 ---
 
@@ -96,7 +96,7 @@ Với hơn 15 năm kinh nghiệm thực hiện nhiều công trình xử lý nư
 
 ![Dịch vụ cải tạo và nâng cấp hệ thống xử lý nước cấp](https://moitruonghopnhat.com/uploads/images/Dich-vu/dich-vu-cai-tao-nang-cap-he-thong-xu-ly-nuoc-cap.jpg)
 
-*Hình: Dịch vụ cải tạo và nâng cấp hệ thống xử lý nước cấp.*
+Dịch vụ cải tạo và nâng cấp hệ thống xử lý nước cấp
 
 ---
 
@@ -126,7 +126,7 @@ Thực hiện chạy thử hệ thống, kiểm tra các thông số kỹ thuậ
 
 ![Vận hành hệ thống xử lý nước cấp](https://moitruonghopnhat.com/uploads/images/Dich-vu/van-hanh-he-thong-xu-ly-nuoc-cap.jpg)
 
-*Hình: Vận hành hệ thống xử lý nước cấp.*
+Vận hành hệ thống xử lý nước cấp
 
 ---
 
@@ -143,7 +143,7 @@ Hợp Nhất có năng lực triển khai cải tạo, nâng cấp hệ thống 
 
 ![Hệ thống xử lý nước cấp sinh hoạt tại một khu resort do Hợp Nhất thi công, lắp đặt](https://moitruonghopnhat.com/uploads/images/Dich-vu/he-thong-xu-ly-nuoc-cap-sinh-hoat.jpg)
 
-*Hình: Hệ thống xử lý nước cấp sinh hoạt tại một khu resort do Hợp Nhất thi công, lắp đặt.*
+Hệ thống xử lý nước cấp sinh hoạt tại một khu resort do Hợp Nhất thi công, lắp đặt
 
 ---
 
@@ -161,4 +161,4 @@ Nếu bạn cần tư vấn, cải tạo và nâng cấp hệ thống xử lý n
 
 [![Liên hệ dịch vụ cải tạo và nâng cấp hệ thống xử lý nước cấp](https://moitruonghopnhat.com/uploads/images/CTA/CTA-cai-tao-nang-cap-he-thong-xu-ly-nuoc-cap.jpg)](tel:0938857768)
 
-*Hình: Liên hệ dịch vụ cải tạo và nâng cấp hệ thống xử lý nước cấp.*
+Liên hệ dịch vụ cải tạo và nâng cấp hệ thống xử lý nước cấp
