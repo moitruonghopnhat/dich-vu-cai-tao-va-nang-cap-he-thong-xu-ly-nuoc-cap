@@ -4,7 +4,7 @@
 
 ![Cải tạo và nâng cấp hệ thống xử lý nước cấp](https://moitruonghopnhat.com/uploads/images/Dich-vu/cai-tao-nang-cap-he-thong-xu-ly-nuoc-cap.jpg)
 
-*Hình: Cải tạo và nâng cấp hệ thống xử lý nước cấp.*
+Cải tạo và nâng cấp hệ thống xử lý nước cấp.*
 
 ## Mục lục
 
